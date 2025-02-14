@@ -14,7 +14,15 @@ const Title = styled.h1`
   color: #4a90e2;
 `;
 
+
+
+
+
 const NavBar = styled.nav`
+
+
+
+
   margin: 20px;
   a {
     margin: 0 10px;
